@@ -1,0 +1,42 @@
+.carousel-caption {
+    margin-bottom: 400px;
+}
+.imgs{
+    height:max-content;
+    width: 100%;
+}
+.colr{
+    color: green;
+    margin: 10px;
+}
+.html{
+    background-color: black;
+}
+.body{
+    background-color: black;
+}
+.dcolr{
+    color: green;
+}
+
+.dcolrs{
+    color: green;
+    padding-bottom: 160px; 
+}
+.dcolr2{
+    color: green;
+}
+.lcolr{
+    color: green;
+}
+
+@media only screen and (max-width: 900px) {
+    .carousel-caption {
+      margin-bottom: 0px;
+    }
+    .imgs{
+        width: auto;
+        
+    }
+  }
+
